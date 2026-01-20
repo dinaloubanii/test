@@ -1,1 +1,1 @@
-Entry 1: I learned how to set up a repo
+Entry 1: I learned how to set up a repogit 
