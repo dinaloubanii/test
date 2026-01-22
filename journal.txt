@@ -1,2 +1,3 @@
 Entry 1: I learned how to set up a repo
 Entry 2: Learned about Staging!
+Entry 3: Learned about Push!!
